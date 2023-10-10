@@ -10,7 +10,7 @@ begin
     readln(nama);
     writeln('NIM : ');
     readln(nim);
-    stambuk := nim[1] + nim[2];
+    stambuk := '20' + nim[1] + nim[2];
     fakultas := nim[3] + nim[4];
     prodi := nim[5] + nim[6];
     nomor_urut := strToint(nim[7..9]);
@@ -180,6 +180,5 @@ begin
                 end;
             end;
     end;
-
-
+    writeln('Stambuk : ',stambuk);
 end.
