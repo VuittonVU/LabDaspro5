@@ -1,0 +1,21 @@
+Kartu Hasil Studi
+==================================
+
+Nama : Vuitton Varian Utomo
+NIM  : 231401063
+
+|=======================================================|
+|No |Matkul                                       |Nilai|
+|=======================================================|
+|1. |Pendidikan Pancasila                         |A    |
+|2. |Bahasa Indonesia                             |B+   |
+|3. |Matematika Dasar                             |B    |
+|4. |Pengantar Ilmu Komputer                      |C+   |
+|5. |Logika Matematika                            |C    |
+|6. |Dasar Pemrograman                            |D    |
+|7. |Praktikum Dasar Pemrograman                  |E    |
+|8. |Organisasi Arsitektur Komputer               |A    |
+|=======================================================|
+
+Total SKS   : 19
+IP semester : 2.63
